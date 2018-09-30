@@ -1,0 +1,10 @@
+D:\GDrive\dev\7 erreures\7 erreures\bin\Debug\7 erreures.exe.config
+D:\GDrive\dev\7 erreures\7 erreures\bin\Debug\7 erreures.exe
+D:\GDrive\dev\7 erreures\7 erreures\bin\Debug\7 erreures.pdb
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\7 erreures.csprojAssemblyReference.cache
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\_7_erreures.Form1.resources
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\_7_erreures.Properties.Resources.resources
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\7 erreures.csproj.GenerateResource.cache
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\7 erreures.csproj.CoreCompileInputs.cache
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\7 erreures.exe
+D:\GDrive\dev\7 erreures\7 erreures\obj\Debug\7 erreures.pdb
